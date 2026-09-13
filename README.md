@@ -174,6 +174,13 @@ Ofis aydınlatma ve havalandırma sistemlerinin kontrolünü sağlayan backend t
 
 `C#` · `.NET` · `SQL Server`  · `React` · `gRPC` · `MQTT` · `JWT`
 
+### 🏷️ Industrial Label Design & Print System
+
+Endüstriyel şirketlerin üretim ve lojistik süreçlerinde ihtiyaç duyduğu barkod, QR Code ve DataMatrix destekli dinamik etiket tasarımı ve yazdırma işlemlerini gerçekleştiren WPF tabanlı masaüstü uygulamasıdır.
+
+**Technologies**
+
+`C#` · `.NET` · `WPF` · `XML` · `Barcode/QR Technologies` · `SQL Server`
 ---
 
 # 🌍 Languages
