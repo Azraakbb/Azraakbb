@@ -92,7 +92,7 @@ Ofis aydınlatma ve havalandırma sistemlerinin kontrolünü sağlayan
 backend tabanlı otomasyon projesi.
 
 **Technologies:**
-
+C# · .NET · SQL Server · React · gRPC · MQTT · JWT
 ---
 
 ## 📫 Bana Ulaşın
