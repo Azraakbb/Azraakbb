@@ -174,13 +174,20 @@ Ofis aydınlatma ve havalandırma sistemlerinin kontrolünü sağlayan backend t
 
 `C#` · `.NET` · `SQL Server`  · `React` · `gRPC` · `MQTT` · `JWT`
 
-### 🏷️ Industrial Label Design & Print System
+### 🏷️ Endüstriyel Etiket Tasarımı ve Baskı Sistemi
 
-Endüstriyel şirketlerin üretim ve lojistik süreçlerinde ihtiyaç duyduğu barkod, QR Code ve DataMatrix destekli dinamik etiket tasarımı ve yazdırma işlemlerini gerçekleştiren WPF tabanlı masaüstü uygulamasıdır.
+Endüstriyel üretim ve lojistik süreçlerinde ihtiyaç duyulan barkod, QR Code ve DataMatrix destekli dinamik etiket tasarımı ve yazdırma işlemlerini gerçekleştiren WPF tabanlı masaüstü uygulamasıdır.
 
-**Technologies**
+**Teknolojiler**
 
-`C#` · `.NET` · `WPF` · `XML` · `Barcode/QR Technologies` · `SQL Server`
+<p>
+  <img src="https://img.shields.io/badge/C%23-7C3AED?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-8B5CF6?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WPF-9333EA?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XML-A855F7?style=flat-square&logo=xml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Barcode%2FQR-7C3AED?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-8B5CF6?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 ---
 
 # 🌍 Languages
