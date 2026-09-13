@@ -183,6 +183,7 @@ Endüstriyel üretim ve lojistik süreçlerinde ihtiyaç duyulan barkod, QR Code
 **Technologies**
 
 `C#` · `.NET` · `WPF` · `XML` · `Barcode & QR` · `SQL Server`
+
 ---
 
 # 🌍 Languages
